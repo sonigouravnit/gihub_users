@@ -1,0 +1,45 @@
+.profile {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #555555;
+}
+
+.keyRow {
+    text-align: center;
+    border: solid 1px grey;
+    padding: 12px 0 12px 0;
+    border-bottom-width: 0px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    word-wrap: break-word;
+}
+
+.keyColumn {
+    width: 50%;
+}
+
+.repoHeader {
+    text-align: center;
+    background-color: cadetblue;
+    padding: 12px;
+}
+
+.repoRow {
+
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+    word-wrap: break-word;
+
+}
+
+.repoContent {
+    background-color: aliceblue;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
